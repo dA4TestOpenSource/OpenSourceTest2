@@ -1,9 +1,6 @@
-
-
-### Top Contributors (last 3 months) widget
+### Top Contributors (last 24 months) widget
 ---
-![Top Contributors (last 3 months) widget](https://stg=embeddables.devactivity.com/orgs/devactivity-app/44104f93-786b-4102-af4c-6897719975ef.svg)
----
+![Top Contributors (last 24 months) widget](https://devactivity-test.s3.us-east-1.amazonaws.com/orgs/devactivity-app/bc818a37-3cbc-4809-aae1-517b9e64d238.svg)
 
 ### Active Challenges widget
 ---
