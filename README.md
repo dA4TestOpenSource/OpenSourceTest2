@@ -1,3 +1,9 @@
+### Active Challenges widget
+---
+[![Active Challenges widget](https://stg-embeddables.devactivity.com/orgs/standupify/571956d5-8c7c-4ddd-90f4-85ce96d350c6.svg)](https://staging.devactivity.com/public/?organizationLogin=standupify#nav-achievements)
+---
+<sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=standupify) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
+
 ### Top Contributors (last 24 months) widget
 ---
 ![Top Contributors (last 24 months) widget](https://devactivity-test.s3.us-east-1.amazonaws.com/orgs/devactivity-app/bc818a37-3cbc-4809-aae1-517b9e64d238.svg)
